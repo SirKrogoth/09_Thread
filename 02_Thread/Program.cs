@@ -15,7 +15,7 @@ namespace _02_Thread
             for (int i = 0; i < 5; i++)
             {
                 Thread t = new Thread(ThreadRepeticao);
-
+                //t.IsBackground = true; <- faz com que a thread seja bloqueada quando o fluxo principal é parado
                 t.Start();
             }
 
