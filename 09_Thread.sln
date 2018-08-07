@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Thread_ID", "04_Thread_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Thread_Metodos", "05_Thread_Metodos\05_Thread_Metodos.csproj", "{49EA842F-B78C-4982-A60D-608240AEC8D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Thread_Auto_Manual", "06_Thread_Auto_Manual\06_Thread_Auto_Manual.csproj", "{15C77A2B-C9ED-4127-9F9E-39D7032B3015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{49EA842F-B78C-4982-A60D-608240AEC8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49EA842F-B78C-4982-A60D-608240AEC8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49EA842F-B78C-4982-A60D-608240AEC8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C77A2B-C9ED-4127-9F9E-39D7032B3015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C77A2B-C9ED-4127-9F9E-39D7032B3015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C77A2B-C9ED-4127-9F9E-39D7032B3015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C77A2B-C9ED-4127-9F9E-39D7032B3015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
